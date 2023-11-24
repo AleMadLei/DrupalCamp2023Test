@@ -1,0 +1,8 @@
+drupalcamp_2023_test.example:
+  path: '/drupalcamp-2023-test/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\drupalcamp_2023_test\Controller\Drupalcamp2023TestController::build'
+  requirements:
+    _permission: 'access content'
+

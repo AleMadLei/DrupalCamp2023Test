@@ -1,0 +1,5 @@
+name: drupalcamp_2023_test
+type: module
+description: A test for Drupal Cmapo 2023
+package: Custom
+core_version_requirement: ^9 || ^10
